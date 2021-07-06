@@ -52,8 +52,8 @@ Novalnet merchant account is required for using this Novalnet payment module for
 ## Installation of SAP Commerce Cloud Module
 Please follow the below steps for SAP payment module installation:
 *	Get the SAP Commerce payment module from the <a href= https://store.sap.com/en/product/display-0000059675_live_v1/Seamless%20Payments%20&%20Features%20for%20SAP%20Commerce> SAP app center </a>
-*	Upload the module in you git lab repository
-*	Crete a build and deploy to your environment
+*	Upload the module in your git lab repository
+*	Create a build and deploy to your environment
 *	Configure the keys and notification webhooks in the shop backend
 * Select and activate the payment methods in the shop
 
