@@ -1,8 +1,8 @@
-# Novalnet Payment Module for SAP Commerce
-Novalnet’s payment module for SAP Commerce integrates with your shop system through standard SAP-approved interfaces and APIs. The SAP Commerce payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences – thus simplifying payment processing with a single integration.
+# Novalnet Payment Module for SAP Commerce Cloud
+Novalnet’s payment module for SAP Commerce Cloud integrates with your shop system through standard SAP-approved interfaces and APIs. The SAP Commerce Cloud payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences – thus simplifying payment processing with a single integration.
 
 ## Integration requirements 
-Novalnet merchant account is required for using this Novalnet payment module for SAP Commerce. The module is available for the version 1905 in the following languages: EN & DE. 
+Novalnet merchant account is required for using this Novalnet payment module for SAP Commerce Cloud. The module is available for the version 1905 in the following languages: EN & DE. 
 
 ## Advantages
 -	Easy configuration for all payment methods
@@ -49,18 +49,19 @@ Novalnet merchant account is required for using this Novalnet payment module for
 *	Custom CSS configuration for Credit Card iframe
 *	Responsive templates
 
-## Installation of SAP Commerce Module
+## Installation of SAP Commerce Cloud Module
 Please follow the below steps for SAP payment module installation:
 *	Get the SAP Commerce payment module from the <a href= https://store.sap.com/en/product/display-0000059675_live_v1/Seamless%20Payments%20&%20Features%20for%20SAP%20Commerce> SAP app center </a>
-*	Add and install the module through _terminals_
-*	Configure the _keys_ and _notification webhooks_ in the shop backend
-*	Select and activate the _payment methods_ in the shop
+*	Upload the module in you git lab repository
+*	Crete a build and deploy to your environment
+*	Configure the keys and notification webhooks in the shop backend
+* Select and activate the payment methods in the shop
 
 ## License
 See our License Agreement at: https://www.novalnet.com/payment-plugins/paid/license
 
 ## Documentation & Support
-For more information about the Novalnet payment module for SAP Commerce and pricing, please get in touch with us:  <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+For more information about the Novalnet payment module for SAP Commerce Cloud and pricing, please get in touch with us:  <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
