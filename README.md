@@ -23,30 +23,29 @@ Novalnet merchant account is required for using this Novalnet payment module for
 
 ## Payment methods integrated with SAP Commerce Module
 -	Direct Debit SEPA
--	Credit Card (3DSecure and non 3DSecure)
+-	Credit/Debit Cards
 -	Invoice
 -	Prepayment
--	Barzahlen
--	Instant Bank Transfer
--	PayPal
--	iDEAL
--	eps
--	giropay
--	Przelewy24
--	Direct Debit SEPA with payment guarantee
 -	Invoice with payment guarantee
--	Bancontact
+-	Direct Debit SEPA with payment guarantee
+-	iDEAL
+-	Sofort
+-	giropay
+-	Barzahlen/viacash
+-	Przelewy24
+-	eps
+-	PayPal
 -	PostFinance Card
--	PostFinance E-finance
+-	PostFinance E-Finance
+-	Bancontact
 -	Multibanco
 
 ## Key features
 *	Seamless and fast integration of the payment module
 *	Secure SSL- encoded gateways
 *	Credit Card iframe integration
-*	Credit Card with 3D Secure
 *	One click shopping supported
-*	Custom CSS configuration for Credit Card iframe
+*	Custom CSS configuration for Credit/Debit Card iframe
 *	Responsive templates
 
 ## Installation of SAP Commerce Cloud Module
