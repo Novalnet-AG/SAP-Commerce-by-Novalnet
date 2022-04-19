@@ -57,7 +57,7 @@ Please follow the below steps for SAP payment module installation:
 5. Select and activate the payment methods in the shop
 
 ## License
-See our License Agreement at: https://www.novalnet.com/payment-plugins/paid/license
+See our License Agreement at: https://www.novalnet.de/payment-plugins-kostenpflichtig-lizenz
 
 ## Documentation & Support
 Novalnet's plugin package comes with the detailed installation guide explaining the configuration steps to integrate it with your shop system and to start accepting payments worldwide. For more information about the Novalnet payment module for SAP Commerce Cloud and pricing, please get in touch with us:  <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
