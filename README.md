@@ -2,7 +2,7 @@
 Novalnet’s payment module for SAP Commerce Cloud integrates with your shop system through standard SAP-approved interfaces and APIs.The SAP Commerce Cloud payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences – thus simplifying payment processing with a single integration.
 
 ## Integration requirements for SAP Commerce Cloud
-Novalnet merchant account is required for using this Novalnet payment module for SAP Commerce Cloud. The module is available for the version 2105 in the following languages: EN & DE. 
+Novalnet merchant account is required for using this Novalnet payment module for SAP Commerce Cloud. The module is available for the version 2205 in the following languages: EN & DE. 
 
 ## Advantages of Novalnet's SAP Commerce Cloud integration
 -	Easy configuration for all payment methods
@@ -39,6 +39,7 @@ Novalnet merchant account is required for using this Novalnet payment module for
 -	PostFinance E-Finance
 -	Bancontact
 -	Multibanco
+- Online bank transfer 
 
 ## Key features
 *	Seamless and fast integration of the payment module
