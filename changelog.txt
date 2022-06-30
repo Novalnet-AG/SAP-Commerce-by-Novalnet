@@ -1,5 +1,9 @@
 *** Changelog ***
 
+= 1.1.0 - 2022.06.30 =
+* New   - Implemented Online bank transfer payment
+* Enhanced  - Updated payment logo for sofort payment
+
 = 1.0.1 - 2022.03.31 =
 * Fix   - Compatibility for SAP commerce cloud 2105
 
